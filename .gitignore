@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+### CraftCMS template
+# Craft Storage (cache) [http://buildwithcraft.com/help/craft-storage-gitignore]
+/craft/storage/*
+!/craft/storage/logo/*### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+/target/
